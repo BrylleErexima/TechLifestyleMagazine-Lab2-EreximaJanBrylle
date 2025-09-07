@@ -1,1 +1,1 @@
-# TechLifestyleMagazine-Lab2-EreximaJanBrylle
+Completed Lab 2 - Multi-Page Magazine Website
